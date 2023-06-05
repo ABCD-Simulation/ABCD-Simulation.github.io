@@ -1,9 +1,8 @@
 # ![Build Status](./img/ABCD_Logo.png)
 
 # ABCD-Simulation &middot;  [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-> Additional information or tag line
 
-A brief description of your project, what it is used for.
+대전(대신 전해드립니다)는 사용자가 정보를 입력하면 사용자의 말투를 그대로 따라하여 마치 분신처럼 대화해 주는 AI입니다.
 
 ## Installing / Getting started
 
