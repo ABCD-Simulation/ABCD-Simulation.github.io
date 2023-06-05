@@ -6,22 +6,22 @@
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+시작하기에 앞서 설치할 것들
 
 ```shell
-commands here
+npm install ABCD-Simulation
 ```
 
-Here you should say what actually happens when you execute the code above.
+위 라이브러리를 설치하게 되면 시뮬레이터를 사용할 준비가 되었습니다!
+코드 에디터 혹은 터미널이 아닌 API는 밑에 설치 방법이 나와 있습니다.
 
 ## Developing
 
 ### Built With
-List main libraries, frameworks used including versions (React, Angular etc...)
+React, Angular, Vue, NodeJS, Flask
 
 ### Prerequisites
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
+먼저 Python 13.5.3 이상 버전의 설치가 필요합니다.
 
 
 ### Setting up Dev
